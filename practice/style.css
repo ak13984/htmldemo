@@ -1,0 +1,20 @@
+body{
+    /* <img src= alt=""> */
+    background-image: url("https://img.wallpapersafari.com/desktop/1920/1080/55/26/eJjtzM.jpg");
+}
+div{
+    display: flex;
+  justify-content: space-between;
+}
+input{
+    position: relative;
+    /* top:1.2rem; */
+    margin:1.2rem;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a{
+ color:black;
+    text-decoration: none;
+}
